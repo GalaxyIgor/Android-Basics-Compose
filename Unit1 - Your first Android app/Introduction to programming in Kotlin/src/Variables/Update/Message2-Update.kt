@@ -1,4 +1,4 @@
-package Variables
+package Variables.Update
 
 fun main() {
     var count = 10

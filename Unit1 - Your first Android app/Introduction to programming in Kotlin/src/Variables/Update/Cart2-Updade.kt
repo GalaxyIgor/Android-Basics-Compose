@@ -1,4 +1,4 @@
-package Variables
+package Variables.Update
 
 fun main() {
     var cartTotal = 0

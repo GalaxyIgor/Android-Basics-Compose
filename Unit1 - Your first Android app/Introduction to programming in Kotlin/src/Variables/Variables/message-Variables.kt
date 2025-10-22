@@ -1,4 +1,4 @@
-package Variables
+package Variables.Variables
 
 fun main() {
     val unreadCount = 5

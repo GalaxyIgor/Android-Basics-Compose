@@ -1,4 +1,4 @@
-package Variables
+package Variables.Update
 
 fun main() {
     // val = cartTotal = 0 //val=não pode alterar
