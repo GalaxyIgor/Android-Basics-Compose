@@ -14,7 +14,7 @@ O curso ensina a criar apps Android modernos usando o **Jetpack Compose**, o kit
 
 ---
 
-## 🧠 Estrutura do Curso
+## 🧠 Estrutura do Curso ~100 horas
 
 O curso é dividido em **8 unidades**, cada uma com seus próprios módulos e projetos práticos.
 
