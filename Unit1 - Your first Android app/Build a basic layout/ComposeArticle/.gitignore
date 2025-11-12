@@ -1,0 +1,51 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Gradle Wrapper
+gradle/
+!gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Kotlin
+*.kotlin_module
+*.kotlin_metadata
+
+# Navigation Safe Args
+navigation.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# OS Files
+.DS_Store
+Thumbs.db
